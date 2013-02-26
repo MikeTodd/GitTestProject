@@ -1,5 +1,5 @@
 Test file
-Participants:
+Coders:
 Mike
 Brandon
 Doug
